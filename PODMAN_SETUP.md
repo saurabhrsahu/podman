@@ -1,5 +1,7 @@
 # Podman Installation and Setup Guide
 
+**Repo index:** [README.md](./README.md) · **Architecture & components:** [docs/podman-components.md](./docs/podman-components.md) · **Learning notes:** [docs/learning-notes-guide.md](./docs/learning-notes-guide.md)
+
 ## Table of Contents
 - [What is Podman?](#what-is-podman)
 - [Windows Installation](#windows-installation)
